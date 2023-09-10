@@ -1,0 +1,1 @@
+- **🏷️Tags** :  #<% tp.file.creation_date("YYYY-MM") %> <% tp.file.tags.join(" ") %>
