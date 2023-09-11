@@ -6,7 +6,7 @@
 
 Security incidents are a common occurrence. When these incidents happen, security analysts need a fast and reliable tool to enrich indicators (observables) across various open-source intelligence (OSINT) sites. That's where Indicator Search comes in.
 
-Indicator Search is a project that I have been developing for the last few months. The original goal was to just learn the FastAPI framework as a weekend ordeal and it blossomed into a whole lot more. This project has taught me a lot about web app development which is new to me since I've been in a Detection Engineering / SOC role for the last few years.
+Indicator Search is a project that I have been developing for the last few months. The original goal was to just learn the FastAPI framework as a weekend ordeal and it blossomed into a whole lot more. This project has taught me a lot about web app development which is new to me since I've been in a Detection Engineering / SOC role for the last few years. ^bfce8a
 
 One of the problems I've faced in my working career so far is the lack of enrichment in security telemetry from an analyst perspective and it requires the need to pivot to multiple tools to inquire additional details about an IP/Hash or domain.
 
