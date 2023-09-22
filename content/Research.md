@@ -1,10 +1,11 @@
 
 ## Getting up to speed with AWS
+
 ![[Pasted image 20230921212433.png]]
 
 [[AWS SCS-C01 |View Research]]
 
-**Description:** A study guide for the [AWS security specialty exam](https://aws.amazon.com/certification/certified-security-specialty/) or a quick way to get you up to speed on AWS security controls.
+**Description:** A comprehensive resource to prepare for the [AWS Security Specialty exam](https://aws.amazon.com/certification/certified-security-specialty/) or a fast-track guide to learn about AWS service.
 
 ---
 
