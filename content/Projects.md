@@ -28,5 +28,3 @@ while working through a security incident.
 [[MPCNC Hot-Swappable Z-Axis|View Project]]
 
 **Project Description:** Modifications to the MPCNC platform to support a hot swappable Z axis.
-
----
