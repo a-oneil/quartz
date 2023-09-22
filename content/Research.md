@@ -5,7 +5,7 @@
 
 [[AWS SCS-C01 |View Research]]
 
-**Description:** A comprehensive resource to prepare for the [AWS Security Specialty exam](https://aws.amazon.com/certification/certified-security-specialty/) or a fast-track guide to learn about AWS service.
+**Description:** A comprehensive guide to prepare for the [AWS Security Specialty exam](https://aws.amazon.com/certification/certified-security-specialty/) or a fast-track method to learn about AWS services.
 
 ---
 
