@@ -13,7 +13,7 @@ Welcome to my little corner of the internet! My name is Austin and I am a Detect
 <center>
 <a href="https://www.linkedin.com/in/austinoneil"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/aoneil_"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-<a href="https://github.com/rc-austinoneil"><img src="https://img.icons8.com/color/32/000000/github.png" alt="github"/></a>
+<a href="https://github.com/a-oneil"><img src="https://img.icons8.com/color/32/000000/github.png" alt="github"/></a>
 <a href="https://www.reddit.com/user/austino5308"><img src="https://img.icons8.com/color/32/000000/reddit.png" alt="reddit"/></a>
 <a href="https://app.hackthebox.com/profile/40272"><img src="https://austinoneil.com/images/hackthebox.png"/></a>
 <a href="https://tryhackme.com/p/CorruptMalware"><img src="https://austinoneil.com/images/tryhackme.png"/></a>
@@ -24,10 +24,10 @@ Welcome to my little corner of the internet! My name is Austin and I am a Detect
 
 # Site Map
 
-## [[Projects]]
+## [[Projects Home|Projects]]
 
 So many projects, so little documentation. One of my goals this year is to better document my personal projects so I can share my ideas, code, and failures/wins to the world.
 
-## [[Research]]
+## [[Research Home|Research]]
 
 This is usually going to be longer form content, either digging into a security subject or deep diving into a weekend rabbit hole.

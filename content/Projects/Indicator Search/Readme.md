@@ -1,7 +1,7 @@
 ---
 title: Readme
 ---
-![[Indicator Search/Images/logo.png]]
+![[Projects/Indicator Search/Images/logo.png]]
 ## About
 Indicator Search is a web application and API designed for rapid scanning of indicators (observables found during a security incident) against multiple OSINT sites, based on the input indicator type. Inspired by Intelowl, this project aims to provide a similar tool while utilizing the FastAPI framework. Indicator search could deployed among a shared server between security engineers to aid in quick observable lookups as it enables analysts to gather information from various sources in a streamlined manner.
 

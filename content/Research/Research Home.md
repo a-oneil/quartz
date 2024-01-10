@@ -1,3 +1,6 @@
+---
+title: Research
+---
 
 ## Getting up to speed with AWS
 

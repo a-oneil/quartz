@@ -1,4 +1,4 @@
-![[Indicator Search/Images/logo.png]]
+![[Projects/Indicator Search/Images/logo.png]]
 
 * Demo: [indicatorsearch.app](https://indicatorsearch.app) 
 * Github Repo: [Indicator-Search](https://github.com/rc-austinoneil/Indicator-Search)

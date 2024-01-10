@@ -2,7 +2,7 @@
 title: Projects
 ---
 ## Indicator Search
-![[Indicator Search/Images/logo.png]]
+![[Projects/Indicator Search/Images/logo.png]]
 [[Indicator Search Overview|View Project]]
 
 **Project Description:** Indicator Search is a web application and API to quickly enrich indicators 
