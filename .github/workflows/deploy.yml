@@ -1,8 +1,8 @@
 name: Deploy Quartz site to GitHub Pages
  
 on:
-  # repository_dispatch:
-  #   types: [content-update]
+  repository_dispatch:
+    types: [content-update]
   push:
     branches:
       - v4
@@ -32,12 +32,12 @@ jobs:
         run: |
           git pull --recurse-submodules
           git submodule update --remote --recursive
-      - name: Commit update
-        run: |
-          git config --global user.name 'Git bot'
-          git config --global user.email 'bot@noreply.github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git commit -am "Auto updated submodule references" && git push || echo "No changes to commit"
+      # - name: Commit update
+      #   run: |
+      #     git config --global user.name 'Git bot'
+      #     git config --global user.email 'bot@noreply.github.com'
+      #     git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+      #     git commit -am "Auto updated submodule references" && git push || echo "No changes to commit"
       - uses: actions/setup-node@v3
         with:
           node-version: 18.14
