@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - v4
+  content_update:
+    types: [custom-event]
  
 permissions:
   contents: read
